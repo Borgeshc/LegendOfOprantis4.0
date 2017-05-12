@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Arrow : MonoBehaviour {
-
+public class Arrow : MonoBehaviour
+{
     private GameObject arrowPrefab;
     public Transform player;
 
@@ -20,9 +20,6 @@ public class Arrow : MonoBehaviour {
 
     Vector3 p = new Vector3();
     Camera c;
-    
-
-
     Vector3 dir;
     // Use this for initialization
     void Start ()
@@ -36,9 +33,6 @@ public class Arrow : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
-    
-
-
         p = c.ScreenToWorldPoint(new Vector3(Input.mousePosition.x + 80, Input.mousePosition.y - 80, -c.nearClipPlane));
 
         dir = (p - player.transform.position);
@@ -59,7 +53,6 @@ public class Arrow : MonoBehaviour {
             Rigidbody rb = newArrow.GetComponent<Rigidbody>();
             rb.AddForce(dir * 5, ForceMode.Impulse);
 
-            
             Destroy(newArrow, 5);
 
             time = 0;
