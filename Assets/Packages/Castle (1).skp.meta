@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: fb5257c578e120f49b0aa62a371911ca
+timeCreated: 1489871785
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000
+  assetHash:
+    serializedVersion: 2
+    Hash: a878fb2736f773e0bc3ed52d5d56009a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -21.809097, y: 1.0940077, z: -4.52797}
+      lookAt: {x: -3.279075, y: 6.7309704, z: 1.568406}
+      up: {x: -0.26370594, y: 0.96069354, z: -0.08675924}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: another wall
+    100002: Big tower
+    100004: Bottom of butress tower
+    100006: bottom round wall tower
+    100008: bottom square corner tower
+    100010: Bulkhead thing
+    100012: Bulkhead thing 1
+    100014: Bulkhead thing 2
+    100016: Bulkhead thing 3
+    100018: Bulkhead thing 4
+    100020: Bulkhead thing 5
+    100022: Bulkhead thing 6
+    100024: //RootNode
+    100026: Curvy wall
+    100028: Drawbridge
+    100030: Gatehouse
+    100032: Gatehouse structure
+    100034: Gatehouse turret
+    100036: Keep bottom
+    100038: large depth butress bottom
+    100040: large round tower
+    100042: Last wall
+    100044: mach
+    100046: mach 1
+    100048: mach 10
+    100050: mach 100
+    100052: mach 101
+    100054: mach 102
+    100056: mach 103
+    100058: mach 104
+    100060: mach 105
+    100062: mach 106
+    100064: mach 107
+    100066: mach 108
+    100068: mach 109
+    100070: mach 11
+    100072: mach 110
+    100074: mach 111
+    100076: mach 12
+    100078: mach 13
+    100080: mach 14
+    100082: mach 15
+    100084: mach 16
+    100086: mach 17
+    100088: mach 18
+    100090: mach 19
+    100092: mach 2
+    100094: mach 20
+    100096: mach 21
+    100098: mach 22
+    100100: mach 23
+    100102: mach 24
+    100104: mach 25
+    100106: mach 26
+    100108: mach 27
+    100110: mach 28
+    100112: mach 29
+    100114: mach 3
+    100116: mach 30
+    100118: mach 31
+    100120: mach 32
+    100122: mach 33
+    100124: mach 34
+    100126: mach 35
+    100128: mach 36
+    100130: mach 37
+    100132: mach 38
+    100134: mach 39
+    100136: mach 4
+    100138: mach 40
+    100140: mach 41
+    100142: mach 42
+    100144: mach 43
+    100146: mach 44
+    100148: mach 45
+    100150: mach 46
+    100152: mach 47
+    100154: mach 48
+    100156: mach 49
+    100158: mach 5
+    100160: mach 50
+    100162: mach 51
+    100164: mach 52
+    100166: mach 53
+    100168: mach 54
+    100170: mach 55
+    100172: mach 56
+    100174: mach 57
+    100176: mach 58
+    100178: mach 59
+    100180: mach 6
+    100182: mach 60
+    100184: mach 61
+    100186: mach 62
+    100188: mach 63
+    100190: mach 64
+    100192: mach 65
+    100194: mach 66
+    100196: mach 67
+    100198: mach 68
+    100200: mach 69
+    100202: mach 7
+    100204: mach 70
+    100206: mach 71
+    100208: mach 72
+    100210: mach 73
+    100212: mach 74
+    100214: mach 75
+    100216: mach 76
+    100218: mach 77
+    100220: mach 78
+    100222: mach 79
+    100224: mach 8
+    100226: mach 80
+    100228: mach 81
+    100230: mach 82
+    100232: mach 83
+    100234: mach 84
+    100236: mach 85
+    100238: mach 86
+    100240: mach 87
+    100242: mach 88
+    100244: mach 89
+    100246: mach 9
+    100248: mach 90
+    100250: mach 91
+    100252: mach 92
+    100254: mach 93
+    100256: mach 94
+    100258: mach 95
+    100260: mach 96
+    100262: mach 97
+    100264: mach 98
+    100266: mach 99
+    100268: mach#1
+    100270: mach#1 1
+    100272: mach#1 10
+    100274: mach#1 11
+    100276: mach#1 12
+    100278: mach#1 13
+    100280: mach#1 14
+    100282: mach#1 15
+    100284: mach#1 16
+    100286: mach#1 17
+    100288: mach#1 18
+    100290: mach#1 19
+    100292: mach#1 2
+    100294: mach#1 20
+    100296: mach#1 21
+    100298: mach#1 22
+    100300: mach#1 23
+    100302: mach#1 24
+    100304: mach#1 3
+    100306: mach#1 4
+    100308: mach#1 5
+    100310: mach#1 6
+    100312: mach#1 7
+    100314: mach#1 8
+    100316: mach#1 9
+    100318: mach#2
+    100320: mach#2 1
+    100322: mach#2 10
+    100324: mach#2 11
+    100326: mach#2 12
+    100328: mach#2 13
+    100330: mach#2 14
+    100332: mach#2 15
+    100334: mach#2 16
+    100336: mach#2 17
+    100338: mach#2 18
+    100340: mach#2 19
+    100342: mach#2 2
+    100344: mach#2 20
+    100346: mach#2 21
+    100348: mach#2 22
+    100350: mach#2 23
+    100352: mach#2 3
+    100354: mach#2 4
+    100356: mach#2 5
+    100358: mach#2 6
+    100360: mach#2 7
+    100362: mach#2 8
+    100364: mach#2 9
+    100366: Macholations
+    100368: opposite tower bottom
+    100370: Rare wall
+    100372: Round corner tower bottom
+    100374: Round side tower
+    100376: shutter
+    100378: shutter 1
+    100380: shutter 10
+    100382: shutter 11
+    100384: shutter 12
+    100386: shutter 13
+    100388: shutter 14
+    100390: shutter 15
+    100392: shutter 16
+    100394: shutter 17
+    100396: shutter 18
+    100398: shutter 19
+    100400: shutter 2
+    100402: shutter 20
+    100404: shutter 21
+    100406: shutter 22
+    100408: shutter 23
+    100410: shutter 24
+    100412: shutter 25
+    100414: shutter 26
+    100416: shutter 27
+    100418: shutter 28
+    100420: shutter 29
+    100422: shutter 3
+    100424: shutter 30
+    100426: shutter 31
+    100428: shutter 32
+    100430: shutter 33
+    100432: shutter 34
+    100434: shutter 35
+    100436: shutter 36
+    100438: shutter 37
+    100440: shutter 38
+    100442: shutter 39
+    100444: shutter 4
+    100446: shutter 40
+    100448: shutter 41
+    100450: shutter 42
+    100452: shutter 43
+    100454: shutter 5
+    100456: shutter 6
+    100458: shutter 7
+    100460: shutter 8
+    100462: shutter 9
+    100464: Shuttery tower
+    100466: Slim tower bottom
+    100468: square corner tower
+    100470: stairwell
+    100472: stairwell 1
+    100474: top
+    100476: top of a tower
+    100478: top of gatehouse
+    100480: top of gatehouse turret
+    100482: Top of round side tower
+    100484: top of round tower
+    100486: top of slim tower
+    100488: top square corner tower
+    100490: tower
+    100492: tower top of opposite tower
+    100494: turret top
+    100496: Walls are easier than towers
+    400000: another wall
+    400002: Big tower
+    400004: Bottom of butress tower
+    400006: bottom round wall tower
+    400008: bottom square corner tower
+    400010: Bulkhead thing
+    400012: Bulkhead thing 1
+    400014: Bulkhead thing 2
+    400016: Bulkhead thing 3
+    400018: Bulkhead thing 4
+    400020: Bulkhead thing 5
+    400022: Bulkhead thing 6
+    400024: //RootNode
+    400026: Curvy wall
+    400028: Drawbridge
+    400030: Gatehouse
+    400032: Gatehouse structure
+    400034: Gatehouse turret
+    400036: Keep bottom
+    400038: large depth butress bottom
+    400040: large round tower
+    400042: Last wall
+    400044: mach
+    400046: mach 1
+    400048: mach 10
+    400050: mach 100
+    400052: mach 101
+    400054: mach 102
+    400056: mach 103
+    400058: mach 104
+    400060: mach 105
+    400062: mach 106
+    400064: mach 107
+    400066: mach 108
+    400068: mach 109
+    400070: mach 11
+    400072: mach 110
+    400074: mach 111
+    400076: mach 12
+    400078: mach 13
+    400080: mach 14
+    400082: mach 15
+    400084: mach 16
+    400086: mach 17
+    400088: mach 18
+    400090: mach 19
+    400092: mach 2
+    400094: mach 20
+    400096: mach 21
+    400098: mach 22
+    400100: mach 23
+    400102: mach 24
+    400104: mach 25
+    400106: mach 26
+    400108: mach 27
+    400110: mach 28
+    400112: mach 29
+    400114: mach 3
+    400116: mach 30
+    400118: mach 31
+    400120: mach 32
+    400122: mach 33
+    400124: mach 34
+    400126: mach 35
+    400128: mach 36
+    400130: mach 37
+    400132: mach 38
+    400134: mach 39
+    400136: mach 4
+    400138: mach 40
+    400140: mach 41
+    400142: mach 42
+    400144: mach 43
+    400146: mach 44
+    400148: mach 45
+    400150: mach 46
+    400152: mach 47
+    400154: mach 48
+    400156: mach 49
+    400158: mach 5
+    400160: mach 50
+    400162: mach 51
+    400164: mach 52
+    400166: mach 53
+    400168: mach 54
+    400170: mach 55
+    400172: mach 56
+    400174: mach 57
+    400176: mach 58
+    400178: mach 59
+    400180: mach 6
+    400182: mach 60
+    400184: mach 61
+    400186: mach 62
+    400188: mach 63
+    400190: mach 64
+    400192: mach 65
+    400194: mach 66
+    400196: mach 67
+    400198: mach 68
+    400200: mach 69
+    400202: mach 7
+    400204: mach 70
+    400206: mach 71
+    400208: mach 72
+    400210: mach 73
+    400212: mach 74
+    400214: mach 75
+    400216: mach 76
+    400218: mach 77
+    400220: mach 78
+    400222: mach 79
+    400224: mach 8
+    400226: mach 80
+    400228: mach 81
+    400230: mach 82
+    400232: mach 83
+    400234: mach 84
+    400236: mach 85
+    400238: mach 86
+    400240: mach 87
+    400242: mach 88
+    400244: mach 89
+    400246: mach 9
+    400248: mach 90
+    400250: mach 91
+    400252: mach 92
+    400254: mach 93
+    400256: mach 94
+    400258: mach 95
+    400260: mach 96
+    400262: mach 97
+    400264: mach 98
+    400266: mach 99
+    400268: mach#1
+    400270: mach#1 1
+    400272: mach#1 10
+    400274: mach#1 11
+    400276: mach#1 12
+    400278: mach#1 13
+    400280: mach#1 14
+    400282: mach#1 15
+    400284: mach#1 16
+    400286: mach#1 17
+    400288: mach#1 18
+    400290: mach#1 19
+    400292: mach#1 2
+    400294: mach#1 20
+    400296: mach#1 21
+    400298: mach#1 22
+    400300: mach#1 23
+    400302: mach#1 24
+    400304: mach#1 3
+    400306: mach#1 4
+    400308: mach#1 5
+    400310: mach#1 6
+    400312: mach#1 7
+    400314: mach#1 8
+    400316: mach#1 9
+    400318: mach#2
+    400320: mach#2 1
+    400322: mach#2 10
+    400324: mach#2 11
+    400326: mach#2 12
+    400328: mach#2 13
+    400330: mach#2 14
+    400332: mach#2 15
+    400334: mach#2 16
+    400336: mach#2 17
+    400338: mach#2 18
+    400340: mach#2 19
+    400342: mach#2 2
+    400344: mach#2 20
+    400346: mach#2 21
+    400348: mach#2 22
+    400350: mach#2 23
+    400352: mach#2 3
+    400354: mach#2 4
+    400356: mach#2 5
+    400358: mach#2 6
+    400360: mach#2 7
+    400362: mach#2 8
+    400364: mach#2 9
+    400366: Macholations
+    400368: opposite tower bottom
+    400370: Rare wall
+    400372: Round corner tower bottom
+    400374: Round side tower
+    400376: shutter
+    400378: shutter 1
+    400380: shutter 10
+    400382: shutter 11
+    400384: shutter 12
+    400386: shutter 13
+    400388: shutter 14
+    400390: shutter 15
+    400392: shutter 16
+    400394: shutter 17
+    400396: shutter 18
+    400398: shutter 19
+    400400: shutter 2
+    400402: shutter 20
+    400404: shutter 21
+    400406: shutter 22
+    400408: shutter 23
+    400410: shutter 24
+    400412: shutter 25
+    400414: shutter 26
+    400416: shutter 27
+    400418: shutter 28
+    400420: shutter 29
+    400422: shutter 3
+    400424: shutter 30
+    400426: shutter 31
+    400428: shutter 32
+    400430: shutter 33
+    400432: shutter 34
+    400434: shutter 35
+    400436: shutter 36
+    400438: shutter 37
+    400440: shutter 38
+    400442: shutter 39
+    400444: shutter 4
+    400446: shutter 40
+    400448: shutter 41
+    400450: shutter 42
+    400452: shutter 43
+    400454: shutter 5
+    400456: shutter 6
+    400458: shutter 7
+    400460: shutter 8
+    400462: shutter 9
+    400464: Shuttery tower
+    400466: Slim tower bottom
+    400468: square corner tower
+    400470: stairwell
+    400472: stairwell 1
+    400474: top
+    400476: top of a tower
+    400478: top of gatehouse
+    400480: top of gatehouse turret
+    400482: Top of round side tower
+    400484: top of round tower
+    400486: top of slim tower
+    400488: top square corner tower
+    400490: tower
+    400492: tower top of opposite tower
+    400494: turret top
+    400496: Walls are easier than towers
+    2300000: another wall
+    2300002: Bottom of butress tower
+    2300004: bottom round wall tower
+    2300006: bottom square corner tower
+    2300008: Bulkhead thing
+    2300010: Bulkhead thing 1
+    2300012: Bulkhead thing 2
+    2300014: Bulkhead thing 3
+    2300016: Bulkhead thing 4
+    2300018: Bulkhead thing 5
+    2300020: Bulkhead thing 6
+    2300022: Curvy wall
+    2300024: Drawbridge
+    2300026: Gatehouse
+    2300028: Gatehouse turret
+    2300030: Keep bottom
+    2300032: large depth butress bottom
+    2300034: Last wall
+    2300036: mach
+    2300038: mach 1
+    2300040: mach 10
+    2300042: mach 100
+    2300044: mach 101
+    2300046: mach 102
+    2300048: mach 103
+    2300050: mach 104
+    2300052: mach 105
+    2300054: mach 106
+    2300056: mach 107
+    2300058: mach 108
+    2300060: mach 109
+    2300062: mach 11
+    2300064: mach 110
+    2300066: mach 111
+    2300068: mach 12
+    2300070: mach 13
+    2300072: mach 14
+    2300074: mach 15
+    2300076: mach 16
+    2300078: mach 17
+    2300080: mach 18
+    2300082: mach 19
+    2300084: mach 2
+    2300086: mach 20
+    2300088: mach 21
+    2300090: mach 22
+    2300092: mach 23
+    2300094: mach 24
+    2300096: mach 25
+    2300098: mach 26
+    2300100: mach 27
+    2300102: mach 28
+    2300104: mach 29
+    2300106: mach 3
+    2300108: mach 30
+    2300110: mach 31
+    2300112: mach 32
+    2300114: mach 33
+    2300116: mach 34
+    2300118: mach 35
+    2300120: mach 36
+    2300122: mach 37
+    2300124: mach 38
+    2300126: mach 39
+    2300128: mach 4
+    2300130: mach 40
+    2300132: mach 41
+    2300134: mach 42
+    2300136: mach 43
+    2300138: mach 44
+    2300140: mach 45
+    2300142: mach 46
+    2300144: mach 47
+    2300146: mach 48
+    2300148: mach 49
+    2300150: mach 5
+    2300152: mach 50
+    2300154: mach 51
+    2300156: mach 52
+    2300158: mach 53
+    2300160: mach 54
+    2300162: mach 55
+    2300164: mach 56
+    2300166: mach 57
+    2300168: mach 58
+    2300170: mach 59
+    2300172: mach 6
+    2300174: mach 60
+    2300176: mach 61
+    2300178: mach 62
+    2300180: mach 63
+    2300182: mach 64
+    2300184: mach 65
+    2300186: mach 66
+    2300188: mach 67
+    2300190: mach 68
+    2300192: mach 69
+    2300194: mach 7
+    2300196: mach 70
+    2300198: mach 71
+    2300200: mach 72
+    2300202: mach 73
+    2300204: mach 74
+    2300206: mach 75
+    2300208: mach 76
+    2300210: mach 77
+    2300212: mach 78
+    2300214: mach 79
+    2300216: mach 8
+    2300218: mach 80
+    2300220: mach 81
+    2300222: mach 82
+    2300224: mach 83
+    2300226: mach 84
+    2300228: mach 85
+    2300230: mach 86
+    2300232: mach 87
+    2300234: mach 88
+    2300236: mach 89
+    2300238: mach 9
+    2300240: mach 90
+    2300242: mach 91
+    2300244: mach 92
+    2300246: mach 93
+    2300248: mach 94
+    2300250: mach 95
+    2300252: mach 96
+    2300254: mach 97
+    2300256: mach 98
+    2300258: mach 99
+    2300260: mach#1
+    2300262: mach#1 1
+    2300264: mach#1 10
+    2300266: mach#1 11
+    2300268: mach#1 12
+    2300270: mach#1 13
+    2300272: mach#1 14
+    2300274: mach#1 15
+    2300276: mach#1 16
+    2300278: mach#1 17
+    2300280: mach#1 18
+    2300282: mach#1 19
+    2300284: mach#1 2
+    2300286: mach#1 20
+    2300288: mach#1 21
+    2300290: mach#1 22
+    2300292: mach#1 23
+    2300294: mach#1 24
+    2300296: mach#1 3
+    2300298: mach#1 4
+    2300300: mach#1 5
+    2300302: mach#1 6
+    2300304: mach#1 7
+    2300306: mach#1 8
+    2300308: mach#1 9
+    2300310: mach#2
+    2300312: mach#2 1
+    2300314: mach#2 10
+    2300316: mach#2 11
+    2300318: mach#2 12
+    2300320: mach#2 13
+    2300322: mach#2 14
+    2300324: mach#2 15
+    2300326: mach#2 16
+    2300328: mach#2 17
+    2300330: mach#2 18
+    2300332: mach#2 19
+    2300334: mach#2 2
+    2300336: mach#2 20
+    2300338: mach#2 21
+    2300340: mach#2 22
+    2300342: mach#2 23
+    2300344: mach#2 3
+    2300346: mach#2 4
+    2300348: mach#2 5
+    2300350: mach#2 6
+    2300352: mach#2 7
+    2300354: mach#2 8
+    2300356: mach#2 9
+    2300358: Macholations
+    2300360: opposite tower bottom
+    2300362: Rare wall
+    2300364: Round corner tower bottom
+    2300366: shutter
+    2300368: shutter 1
+    2300370: shutter 10
+    2300372: shutter 11
+    2300374: shutter 12
+    2300376: shutter 13
+    2300378: shutter 14
+    2300380: shutter 15
+    2300382: shutter 16
+    2300384: shutter 17
+    2300386: shutter 18
+    2300388: shutter 19
+    2300390: shutter 2
+    2300392: shutter 20
+    2300394: shutter 21
+    2300396: shutter 22
+    2300398: shutter 23
+    2300400: shutter 24
+    2300402: shutter 25
+    2300404: shutter 26
+    2300406: shutter 27
+    2300408: shutter 28
+    2300410: shutter 29
+    2300412: shutter 3
+    2300414: shutter 30
+    2300416: shutter 31
+    2300418: shutter 32
+    2300420: shutter 33
+    2300422: shutter 34
+    2300424: shutter 35
+    2300426: shutter 36
+    2300428: shutter 37
+    2300430: shutter 38
+    2300432: shutter 39
+    2300434: shutter 4
+    2300436: shutter 40
+    2300438: shutter 41
+    2300440: shutter 42
+    2300442: shutter 43
+    2300444: shutter 5
+    2300446: shutter 6
+    2300448: shutter 7
+    2300450: shutter 8
+    2300452: shutter 9
+    2300454: Slim tower bottom
+    2300456: stairwell
+    2300458: stairwell 1
+    2300460: top
+    2300462: top of a tower
+    2300464: top of gatehouse
+    2300466: top of gatehouse turret
+    2300468: Top of round side tower
+    2300470: top of round tower
+    2300472: top of slim tower
+    2300474: top square corner tower
+    2300476: tower top of opposite tower
+    2300478: turret top
+    2300480: Walls are easier than towers
+    3300000: another wall
+    3300002: Bottom of butress tower
+    3300004: bottom round wall tower
+    3300006: bottom square corner tower
+    3300008: Bulkhead thing
+    3300010: Bulkhead thing 1
+    3300012: Bulkhead thing 2
+    3300014: Bulkhead thing 3
+    3300016: Bulkhead thing 4
+    3300018: Bulkhead thing 5
+    3300020: Bulkhead thing 6
+    3300022: Curvy wall
+    3300024: Drawbridge
+    3300026: Gatehouse
+    3300028: Gatehouse turret
+    3300030: Keep bottom
+    3300032: large depth butress bottom
+    3300034: Last wall
+    3300036: mach
+    3300038: mach 1
+    3300040: mach 10
+    3300042: mach 100
+    3300044: mach 101
+    3300046: mach 102
+    3300048: mach 103
+    3300050: mach 104
+    3300052: mach 105
+    3300054: mach 106
+    3300056: mach 107
+    3300058: mach 108
+    3300060: mach 109
+    3300062: mach 11
+    3300064: mach 110
+    3300066: mach 111
+    3300068: mach 12
+    3300070: mach 13
+    3300072: mach 14
+    3300074: mach 15
+    3300076: mach 16
+    3300078: mach 17
+    3300080: mach 18
+    3300082: mach 19
+    3300084: mach 2
+    3300086: mach 20
+    3300088: mach 21
+    3300090: mach 22
+    3300092: mach 23
+    3300094: mach 24
+    3300096: mach 25
+    3300098: mach 26
+    3300100: mach 27
+    3300102: mach 28
+    3300104: mach 29
+    3300106: mach 3
+    3300108: mach 30
+    3300110: mach 31
+    3300112: mach 32
+    3300114: mach 33
+    3300116: mach 34
+    3300118: mach 35
+    3300120: mach 36
+    3300122: mach 37
+    3300124: mach 38
+    3300126: mach 39
+    3300128: mach 4
+    3300130: mach 40
+    3300132: mach 41
+    3300134: mach 42
+    3300136: mach 43
+    3300138: mach 44
+    3300140: mach 45
+    3300142: mach 46
+    3300144: mach 47
+    3300146: mach 48
+    3300148: mach 49
+    3300150: mach 5
+    3300152: mach 50
+    3300154: mach 51
+    3300156: mach 52
+    3300158: mach 53
+    3300160: mach 54
+    3300162: mach 55
+    3300164: mach 56
+    3300166: mach 57
+    3300168: mach 58
+    3300170: mach 59
+    3300172: mach 6
+    3300174: mach 60
+    3300176: mach 61
+    3300178: mach 62
+    3300180: mach 63
+    3300182: mach 64
+    3300184: mach 65
+    3300186: mach 66
+    3300188: mach 67
+    3300190: mach 68
+    3300192: mach 69
+    3300194: mach 7
+    3300196: mach 70
+    3300198: mach 71
+    3300200: mach 72
+    3300202: mach 73
+    3300204: mach 74
+    3300206: mach 75
+    3300208: mach 76
+    3300210: mach 77
+    3300212: mach 78
+    3300214: mach 79
+    3300216: mach 8
+    3300218: mach 80
+    3300220: mach 81
+    3300222: mach 82
+    3300224: mach 83
+    3300226: mach 84
+    3300228: mach 85
+    3300230: mach 86
+    3300232: mach 87
+    3300234: mach 88
+    3300236: mach 89
+    3300238: mach 9
+    3300240: mach 90
+    3300242: mach 91
+    3300244: mach 92
+    3300246: mach 93
+    3300248: mach 94
+    3300250: mach 95
+    3300252: mach 96
+    3300254: mach 97
+    3300256: mach 98
+    3300258: mach 99
+    3300260: mach#1
+    3300262: mach#1 1
+    3300264: mach#1 10
+    3300266: mach#1 11
+    3300268: mach#1 12
+    3300270: mach#1 13
+    3300272: mach#1 14
+    3300274: mach#1 15
+    3300276: mach#1 16
+    3300278: mach#1 17
+    3300280: mach#1 18
+    3300282: mach#1 19
+    3300284: mach#1 2
+    3300286: mach#1 20
+    3300288: mach#1 21
+    3300290: mach#1 22
+    3300292: mach#1 23
+    3300294: mach#1 24
+    3300296: mach#1 3
+    3300298: mach#1 4
+    3300300: mach#1 5
+    3300302: mach#1 6
+    3300304: mach#1 7
+    3300306: mach#1 8
+    3300308: mach#1 9
+    3300310: mach#2
+    3300312: mach#2 1
+    3300314: mach#2 10
+    3300316: mach#2 11
+    3300318: mach#2 12
+    3300320: mach#2 13
+    3300322: mach#2 14
+    3300324: mach#2 15
+    3300326: mach#2 16
+    3300328: mach#2 17
+    3300330: mach#2 18
+    3300332: mach#2 19
+    3300334: mach#2 2
+    3300336: mach#2 20
+    3300338: mach#2 21
+    3300340: mach#2 22
+    3300342: mach#2 23
+    3300344: mach#2 3
+    3300346: mach#2 4
+    3300348: mach#2 5
+    3300350: mach#2 6
+    3300352: mach#2 7
+    3300354: mach#2 8
+    3300356: mach#2 9
+    3300358: Macholations
+    3300360: opposite tower bottom
+    3300362: Rare wall
+    3300364: Round corner tower bottom
+    3300366: shutter
+    3300368: shutter 1
+    3300370: shutter 10
+    3300372: shutter 11
+    3300374: shutter 12
+    3300376: shutter 13
+    3300378: shutter 14
+    3300380: shutter 15
+    3300382: shutter 16
+    3300384: shutter 17
+    3300386: shutter 18
+    3300388: shutter 19
+    3300390: shutter 2
+    3300392: shutter 20
+    3300394: shutter 21
+    3300396: shutter 22
+    3300398: shutter 23
+    3300400: shutter 24
+    3300402: shutter 25
+    3300404: shutter 26
+    3300406: shutter 27
+    3300408: shutter 28
+    3300410: shutter 29
+    3300412: shutter 3
+    3300414: shutter 30
+    3300416: shutter 31
+    3300418: shutter 32
+    3300420: shutter 33
+    3300422: shutter 34
+    3300424: shutter 35
+    3300426: shutter 36
+    3300428: shutter 37
+    3300430: shutter 38
+    3300432: shutter 39
+    3300434: shutter 4
+    3300436: shutter 40
+    3300438: shutter 41
+    3300440: shutter 42
+    3300442: shutter 43
+    3300444: shutter 5
+    3300446: shutter 6
+    3300448: shutter 7
+    3300450: shutter 8
+    3300452: shutter 9
+    3300454: Slim tower bottom
+    3300456: stairwell
+    3300458: stairwell 1
+    3300460: top
+    3300462: top of a tower
+    3300464: top of gatehouse
+    3300466: top of gatehouse turret
+    3300468: Top of round side tower
+    3300470: top of round tower
+    3300472: top of slim tower
+    3300474: top square corner tower
+    3300476: tower top of opposite tower
+    3300478: turret top
+    3300480: Walls are easier than towers
+    4300000: Mesh bottom square corner tower
+    4300002: Mesh top square corner tower
+    4300004: Mesh shutter
+    4300006: Mesh shutter
+    4300008: Mesh Top of round side tower
+    4300010: Mesh stairwell
+    4300012: Mesh bottom round wall tower
+    4300014: Mesh top of gatehouse turret
+    4300016: Mesh Gatehouse
+    4300018: Mesh Gatehouse turret
+    4300020: Mesh Drawbridge
+    4300022: Mesh top of gatehouse
+    4300024: Mesh Bulkhead thing
+    4300026: Mesh Bottom of butress tower
+    4300028: Mesh Macholations
+    4300030: Mesh top
+    4300032: Mesh large depth butress bottom
+    4300034: Mesh mach
+    4300036: Mesh top of a tower
+    4300038: Mesh tower top of opposite tower
+    4300040: Mesh opposite tower bottom
+    4300042: Mesh mach
+    4300044: Mesh shutter
+    4300046: Mesh Rare wall
+    4300048: Mesh top of round tower
+    4300050: Mesh shutter
+    4300052: Mesh Round corner tower bottom
+    4300054: Mesh mach#1
+    4300056: Mesh Bulkhead thing
+    4300058: Mesh Slim tower bottom
+    4300060: Mesh mach#2
+    4300062: Mesh Walls are easier than towers
+    4300064: Mesh top of slim tower
+    4300066: Mesh Bulkhead thing
+    4300068: Mesh another wall
+    4300070: Mesh Keep bottom
+    4300072: Mesh turret top
+    4300074: Mesh Curvy wall
+    4300076: Mesh Last wall
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
