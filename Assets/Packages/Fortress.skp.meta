@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: 7d3d024c10a7b804fa8a5ed7a9c118fc
+timeCreated: 1489855935
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2a463be0014c36edb56fe23947238913
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 21.267597, y: 8.41362, z: 0.6507106}
+      lookAt: {x: -24.955175, y: 17.990147, z: 3.0278616}
+      up: {x: 0.20234948, y: 0.9792581, z: -0.010406457}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barred loop
+    100002: barred loop 1
+    100004: barred loop 2
+    100006: barred loop 3
+    100008: barred loop 4
+    100010: bucket
+    100012: bucket 1
+    100014: bucket 2
+    100016: bucket 3
+    100018: Component#1
+    100020: Component#1 1
+    100022: Component#1 10
+    100024: Component#1 11
+    100026: Component#1 12
+    100028: Component#1 13
+    100030: Component#1 14
+    100032: Component#1 15
+    100034: Component#1 16
+    100036: Component#1 17
+    100038: Component#1 2
+    100040: Component#1 3
+    100042: Component#1 4
+    100044: Component#1 5
+    100046: Component#1 6
+    100048: Component#1 7
+    100050: Component#1 8
+    100052: Component#1 9
+    100054: Component#2
+    100056: Component#3
+    100058: Component#3 1
+    100060: Component#3 2
+    100062: Component#3 3
+    100064: Component#3 4
+    100066: Component#3 5
+    100068: Component#3 6
+    100070: Component#3 7
+    100072: Component#3 8
+    100074: Component#3 9
+    100076: Component#4
+    100078: Component#5
+    100080: crane
+    100082: crane 1
+    100084: crane 2
+    100086: crenellations
+    100088: crenellations 1
+    100090: crenellations 10
+    100092: crenellations 11
+    100094: crenellations 12
+    100096: crenellations 13
+    100098: crenellations 14
+    100100: crenellations 15
+    100102: crenellations 16
+    100104: crenellations 17
+    100106: crenellations 18
+    100108: crenellations 19
+    100110: crenellations 2
+    100112: crenellations 20
+    100114: crenellations 21
+    100116: crenellations 22
+    100118: crenellations 23
+    100120: crenellations 24
+    100122: crenellations 25
+    100124: crenellations 26
+    100126: crenellations 27
+    100128: crenellations 28
+    100130: crenellations 29
+    100132: crenellations 3
+    100134: crenellations 30
+    100136: crenellations 31
+    100138: crenellations 4
+    100140: crenellations 5
+    100142: crenellations 6
+    100144: crenellations 7
+    100146: crenellations 8
+    100148: crenellations 9
+    100150: //RootNode
+    100152: Group 1
+    100154: Group 11
+    100156: Group 13
+    100158: Group 15
+    100160: Group 160
+    100162: Group 162
+    100164: Group 165
+    100166: Group 167
+    100168: Group 17
+    100170: Group 170
+    100172: Group 172
+    100174: Group 175
+    100176: Group 177
+    100178: Group 180
+    100180: Group 182
+    100182: Group 185
+    100184: Group 187
+    100186: Group 19
+    100188: Group 190
+    100190: Group 192
+    100192: Group 195
+    100194: Group 197
+    100196: Group 200
+    100198: Group 202
+    100200: Group 205
+    100202: Group 207
+    100204: Group 21
+    100206: Group 210
+    100208: Group 212
+    100210: Group 215
+    100212: Group 217
+    100214: Group 220
+    100216: Group 222
+    100218: Group 225
+    100220: Group 227
+    100222: Group 23
+    100224: Group 230
+    100226: Group 232
+    100228: Group 235
+    100230: Group 237
+    100232: Group 240
+    100234: Group 242
+    100236: Group 245
+    100238: Group 247
+    100240: Group 25
+    100242: Group 27
+    100244: Group 29
+    100246: Group 31
+    100248: Group 33
+    100250: Group 35
+    100252: Group 5
+    100254: Group 7
+    100256: Group 9
+    100258: loop
+    100260: loop 1
+    100262: loop 2
+    100264: loop 3
+    100266: loop 4
+    100268: loop 5
+    100270: loop 6
+    100272: loop 7
+    100274: loop 8
+    100276: loop 9
+    100278: main tower
+    100280: scaffolding
+    100282: scaffolding 1
+    100284: scaffolding 10
+    100286: scaffolding 11
+    100288: scaffolding 12
+    100290: scaffolding 13
+    100292: scaffolding 2
+    100294: scaffolding 3
+    100296: scaffolding 4
+    100298: scaffolding 5
+    100300: scaffolding 6
+    100302: scaffolding 7
+    100304: scaffolding 8
+    100306: scaffolding 9
+    100308: site
+    100310: stick
+    100312: stick 1
+    100314: stick 10
+    100316: stick 11
+    100318: stick 12
+    100320: stick 13
+    100322: stick 14
+    100324: stick 15
+    100326: stick 16
+    100328: stick 17
+    100330: stick 18
+    100332: stick 19
+    100334: stick 2
+    100336: stick 20
+    100338: stick 21
+    100340: stick 22
+    100342: stick 23
+    100344: stick 24
+    100346: stick 25
+    100348: stick 26
+    100350: stick 27
+    100352: stick 28
+    100354: stick 29
+    100356: stick 3
+    100358: stick 30
+    100360: stick 31
+    100362: stick 32
+    100364: stick 33
+    100366: stick 34
+    100368: stick 35
+    100370: stick 36
+    100372: stick 37
+    100374: stick 38
+    100376: stick 39
+    100378: stick 4
+    100380: stick 40
+    100382: stick 41
+    100384: stick 42
+    100386: stick 43
+    100388: stick 44
+    100390: stick 45
+    100392: stick 46
+    100394: stick 5
+    100396: stick 6
+    100398: stick 7
+    100400: stick 8
+    100402: stick 9
+    100404: stone
+    100406: stone 1
+    100408: stone 10
+    100410: stone 11
+    100412: stone 12
+    100414: stone 13
+    100416: stone 14
+    100418: stone 15
+    100420: stone 16
+    100422: stone 17
+    100424: stone 18
+    100426: stone 19
+    100428: stone 2
+    100430: stone 20
+    100432: stone 21
+    100434: stone 22
+    100436: stone 23
+    100438: stone 24
+    100440: stone 25
+    100442: stone 26
+    100444: stone 27
+    100446: stone 28
+    100448: stone 29
+    100450: stone 3
+    100452: stone 30
+    100454: stone 31
+    100456: stone 32
+    100458: stone 33
+    100460: stone 34
+    100462: stone 35
+    100464: stone 36
+    100466: stone 37
+    100468: stone 38
+    100470: stone 39
+    100472: stone 4
+    100474: stone 40
+    100476: stone 41
+    100478: stone 42
+    100480: stone 43
+    100482: stone 44
+    100484: stone 45
+    100486: stone 46
+    100488: stone 47
+    100490: stone 48
+    100492: stone 49
+    100494: stone 5
+    100496: stone 50
+    100498: stone 51
+    100500: stone 52
+    100502: stone 53
+    100504: stone 54
+    100506: stone 55
+    100508: stone 56
+    100510: stone 57
+    100512: stone 58
+    100514: stone 59
+    100516: stone 6
+    100518: stone 60
+    100520: stone 61
+    100522: stone 62
+    100524: stone 63
+    100526: stone 64
+    100528: stone 65
+    100530: stone 66
+    100532: stone 67
+    100534: stone 68
+    100536: stone 69
+    100538: stone 7
+    100540: stone 70
+    100542: stone 8
+    100544: stone 9
+    400000: barred loop
+    400002: barred loop 1
+    400004: barred loop 2
+    400006: barred loop 3
+    400008: barred loop 4
+    400010: bucket
+    400012: bucket 1
+    400014: bucket 2
+    400016: bucket 3
+    400018: Component#1
+    400020: Component#1 1
+    400022: Component#1 10
+    400024: Component#1 11
+    400026: Component#1 12
+    400028: Component#1 13
+    400030: Component#1 14
+    400032: Component#1 15
+    400034: Component#1 16
+    400036: Component#1 17
+    400038: Component#1 2
+    400040: Component#1 3
+    400042: Component#1 4
+    400044: Component#1 5
+    400046: Component#1 6
+    400048: Component#1 7
+    400050: Component#1 8
+    400052: Component#1 9
+    400054: Component#2
+    400056: Component#3
+    400058: Component#3 1
+    400060: Component#3 2
+    400062: Component#3 3
+    400064: Component#3 4
+    400066: Component#3 5
+    400068: Component#3 6
+    400070: Component#3 7
+    400072: Component#3 8
+    400074: Component#3 9
+    400076: Component#4
+    400078: Component#5
+    400080: crane
+    400082: crane 1
+    400084: crane 2
+    400086: crenellations
+    400088: crenellations 1
+    400090: crenellations 10
+    400092: crenellations 11
+    400094: crenellations 12
+    400096: crenellations 13
+    400098: crenellations 14
+    400100: crenellations 15
+    400102: crenellations 16
+    400104: crenellations 17
+    400106: crenellations 18
+    400108: crenellations 19
+    400110: crenellations 2
+    400112: crenellations 20
+    400114: crenellations 21
+    400116: crenellations 22
+    400118: crenellations 23
+    400120: crenellations 24
+    400122: crenellations 25
+    400124: crenellations 26
+    400126: crenellations 27
+    400128: crenellations 28
+    400130: crenellations 29
+    400132: crenellations 3
+    400134: crenellations 30
+    400136: crenellations 31
+    400138: crenellations 4
+    400140: crenellations 5
+    400142: crenellations 6
+    400144: crenellations 7
+    400146: crenellations 8
+    400148: crenellations 9
+    400150: //RootNode
+    400152: Group 1
+    400154: Group 11
+    400156: Group 13
+    400158: Group 15
+    400160: Group 160
+    400162: Group 162
+    400164: Group 165
+    400166: Group 167
+    400168: Group 17
+    400170: Group 170
+    400172: Group 172
+    400174: Group 175
+    400176: Group 177
+    400178: Group 180
+    400180: Group 182
+    400182: Group 185
+    400184: Group 187
+    400186: Group 19
+    400188: Group 190
+    400190: Group 192
+    400192: Group 195
+    400194: Group 197
+    400196: Group 200
+    400198: Group 202
+    400200: Group 205
+    400202: Group 207
+    400204: Group 21
+    400206: Group 210
+    400208: Group 212
+    400210: Group 215
+    400212: Group 217
+    400214: Group 220
+    400216: Group 222
+    400218: Group 225
+    400220: Group 227
+    400222: Group 23
+    400224: Group 230
+    400226: Group 232
+    400228: Group 235
+    400230: Group 237
+    400232: Group 240
+    400234: Group 242
+    400236: Group 245
+    400238: Group 247
+    400240: Group 25
+    400242: Group 27
+    400244: Group 29
+    400246: Group 31
+    400248: Group 33
+    400250: Group 35
+    400252: Group 5
+    400254: Group 7
+    400256: Group 9
+    400258: loop
+    400260: loop 1
+    400262: loop 2
+    400264: loop 3
+    400266: loop 4
+    400268: loop 5
+    400270: loop 6
+    400272: loop 7
+    400274: loop 8
+    400276: loop 9
+    400278: main tower
+    400280: scaffolding
+    400282: scaffolding 1
+    400284: scaffolding 10
+    400286: scaffolding 11
+    400288: scaffolding 12
+    400290: scaffolding 13
+    400292: scaffolding 2
+    400294: scaffolding 3
+    400296: scaffolding 4
+    400298: scaffolding 5
+    400300: scaffolding 6
+    400302: scaffolding 7
+    400304: scaffolding 8
+    400306: scaffolding 9
+    400308: site
+    400310: stick
+    400312: stick 1
+    400314: stick 10
+    400316: stick 11
+    400318: stick 12
+    400320: stick 13
+    400322: stick 14
+    400324: stick 15
+    400326: stick 16
+    400328: stick 17
+    400330: stick 18
+    400332: stick 19
+    400334: stick 2
+    400336: stick 20
+    400338: stick 21
+    400340: stick 22
+    400342: stick 23
+    400344: stick 24
+    400346: stick 25
+    400348: stick 26
+    400350: stick 27
+    400352: stick 28
+    400354: stick 29
+    400356: stick 3
+    400358: stick 30
+    400360: stick 31
+    400362: stick 32
+    400364: stick 33
+    400366: stick 34
+    400368: stick 35
+    400370: stick 36
+    400372: stick 37
+    400374: stick 38
+    400376: stick 39
+    400378: stick 4
+    400380: stick 40
+    400382: stick 41
+    400384: stick 42
+    400386: stick 43
+    400388: stick 44
+    400390: stick 45
+    400392: stick 46
+    400394: stick 5
+    400396: stick 6
+    400398: stick 7
+    400400: stick 8
+    400402: stick 9
+    400404: stone
+    400406: stone 1
+    400408: stone 10
+    400410: stone 11
+    400412: stone 12
+    400414: stone 13
+    400416: stone 14
+    400418: stone 15
+    400420: stone 16
+    400422: stone 17
+    400424: stone 18
+    400426: stone 19
+    400428: stone 2
+    400430: stone 20
+    400432: stone 21
+    400434: stone 22
+    400436: stone 23
+    400438: stone 24
+    400440: stone 25
+    400442: stone 26
+    400444: stone 27
+    400446: stone 28
+    400448: stone 29
+    400450: stone 3
+    400452: stone 30
+    400454: stone 31
+    400456: stone 32
+    400458: stone 33
+    400460: stone 34
+    400462: stone 35
+    400464: stone 36
+    400466: stone 37
+    400468: stone 38
+    400470: stone 39
+    400472: stone 4
+    400474: stone 40
+    400476: stone 41
+    400478: stone 42
+    400480: stone 43
+    400482: stone 44
+    400484: stone 45
+    400486: stone 46
+    400488: stone 47
+    400490: stone 48
+    400492: stone 49
+    400494: stone 5
+    400496: stone 50
+    400498: stone 51
+    400500: stone 52
+    400502: stone 53
+    400504: stone 54
+    400506: stone 55
+    400508: stone 56
+    400510: stone 57
+    400512: stone 58
+    400514: stone 59
+    400516: stone 6
+    400518: stone 60
+    400520: stone 61
+    400522: stone 62
+    400524: stone 63
+    400526: stone 64
+    400528: stone 65
+    400530: stone 66
+    400532: stone 67
+    400534: stone 68
+    400536: stone 69
+    400538: stone 7
+    400540: stone 70
+    400542: stone 8
+    400544: stone 9
+    2300000: barred loop
+    2300002: barred loop 1
+    2300004: barred loop 2
+    2300006: barred loop 3
+    2300008: barred loop 4
+    2300010: bucket
+    2300012: bucket 1
+    2300014: bucket 2
+    2300016: bucket 3
+    2300018: Component#2
+    2300020: Component#3
+    2300022: Component#3 1
+    2300024: Component#3 2
+    2300026: Component#3 3
+    2300028: Component#3 4
+    2300030: Component#3 5
+    2300032: Component#3 6
+    2300034: Component#3 7
+    2300036: Component#3 8
+    2300038: Component#3 9
+    2300040: Component#4
+    2300042: Component#5
+    2300044: crane
+    2300046: crane 1
+    2300048: crane 2
+    2300050: crenellations
+    2300052: crenellations 1
+    2300054: crenellations 10
+    2300056: crenellations 11
+    2300058: crenellations 12
+    2300060: crenellations 13
+    2300062: crenellations 14
+    2300064: crenellations 15
+    2300066: crenellations 16
+    2300068: crenellations 17
+    2300070: crenellations 18
+    2300072: crenellations 19
+    2300074: crenellations 2
+    2300076: crenellations 20
+    2300078: crenellations 21
+    2300080: crenellations 22
+    2300082: crenellations 23
+    2300084: crenellations 24
+    2300086: crenellations 25
+    2300088: crenellations 26
+    2300090: crenellations 27
+    2300092: crenellations 28
+    2300094: crenellations 29
+    2300096: crenellations 3
+    2300098: crenellations 30
+    2300100: crenellations 31
+    2300102: crenellations 4
+    2300104: crenellations 5
+    2300106: crenellations 6
+    2300108: crenellations 7
+    2300110: crenellations 8
+    2300112: crenellations 9
+    2300114: Group 1
+    2300116: Group 11
+    2300118: Group 13
+    2300120: Group 15
+    2300122: Group 160
+    2300124: Group 162
+    2300126: Group 165
+    2300128: Group 167
+    2300130: Group 17
+    2300132: Group 170
+    2300134: Group 172
+    2300136: Group 175
+    2300138: Group 177
+    2300140: Group 180
+    2300142: Group 182
+    2300144: Group 185
+    2300146: Group 187
+    2300148: Group 19
+    2300150: Group 190
+    2300152: Group 192
+    2300154: Group 195
+    2300156: Group 197
+    2300158: Group 200
+    2300160: Group 202
+    2300162: Group 205
+    2300164: Group 207
+    2300166: Group 21
+    2300168: Group 210
+    2300170: Group 212
+    2300172: Group 215
+    2300174: Group 217
+    2300176: Group 220
+    2300178: Group 222
+    2300180: Group 225
+    2300182: Group 227
+    2300184: Group 23
+    2300186: Group 230
+    2300188: Group 232
+    2300190: Group 235
+    2300192: Group 237
+    2300194: Group 240
+    2300196: Group 242
+    2300198: Group 245
+    2300200: Group 247
+    2300202: Group 25
+    2300204: Group 27
+    2300206: Group 29
+    2300208: Group 31
+    2300210: Group 33
+    2300212: Group 35
+    2300214: Group 5
+    2300216: Group 7
+    2300218: Group 9
+    2300220: loop
+    2300222: loop 1
+    2300224: loop 2
+    2300226: loop 3
+    2300228: loop 4
+    2300230: loop 5
+    2300232: loop 6
+    2300234: loop 7
+    2300236: loop 8
+    2300238: loop 9
+    2300240: main tower
+    2300242: scaffolding
+    2300244: scaffolding 1
+    2300246: scaffolding 10
+    2300248: scaffolding 11
+    2300250: scaffolding 12
+    2300252: scaffolding 13
+    2300254: scaffolding 2
+    2300256: scaffolding 3
+    2300258: scaffolding 4
+    2300260: scaffolding 5
+    2300262: scaffolding 6
+    2300264: scaffolding 7
+    2300266: scaffolding 8
+    2300268: scaffolding 9
+    2300270: site
+    2300272: stick
+    2300274: stick 1
+    2300276: stick 10
+    2300278: stick 11
+    2300280: stick 12
+    2300282: stick 13
+    2300284: stick 14
+    2300286: stick 15
+    2300288: stick 16
+    2300290: stick 17
+    2300292: stick 18
+    2300294: stick 19
+    2300296: stick 2
+    2300298: stick 20
+    2300300: stick 21
+    2300302: stick 22
+    2300304: stick 23
+    2300306: stick 24
+    2300308: stick 25
+    2300310: stick 26
+    2300312: stick 27
+    2300314: stick 28
+    2300316: stick 29
+    2300318: stick 3
+    2300320: stick 30
+    2300322: stick 31
+    2300324: stick 32
+    2300326: stick 33
+    2300328: stick 34
+    2300330: stick 35
+    2300332: stick 36
+    2300334: stick 37
+    2300336: stick 38
+    2300338: stick 39
+    2300340: stick 4
+    2300342: stick 40
+    2300344: stick 41
+    2300346: stick 42
+    2300348: stick 43
+    2300350: stick 44
+    2300352: stick 45
+    2300354: stick 46
+    2300356: stick 5
+    2300358: stick 6
+    2300360: stick 7
+    2300362: stick 8
+    2300364: stick 9
+    2300366: stone
+    2300368: stone 1
+    2300370: stone 10
+    2300372: stone 11
+    2300374: stone 12
+    2300376: stone 13
+    2300378: stone 14
+    2300380: stone 15
+    2300382: stone 16
+    2300384: stone 17
+    2300386: stone 18
+    2300388: stone 19
+    2300390: stone 2
+    2300392: stone 20
+    2300394: stone 21
+    2300396: stone 22
+    2300398: stone 23
+    2300400: stone 24
+    2300402: stone 25
+    2300404: stone 26
+    2300406: stone 27
+    2300408: stone 28
+    2300410: stone 29
+    2300412: stone 3
+    2300414: stone 30
+    2300416: stone 31
+    2300418: stone 32
+    2300420: stone 33
+    2300422: stone 34
+    2300424: stone 35
+    2300426: stone 36
+    2300428: stone 37
+    2300430: stone 38
+    2300432: stone 39
+    2300434: stone 4
+    2300436: stone 40
+    2300438: stone 41
+    2300440: stone 42
+    2300442: stone 43
+    2300444: stone 44
+    2300446: stone 45
+    2300448: stone 46
+    2300450: stone 47
+    2300452: stone 48
+    2300454: stone 49
+    2300456: stone 5
+    2300458: stone 50
+    2300460: stone 51
+    2300462: stone 52
+    2300464: stone 53
+    2300466: stone 54
+    2300468: stone 55
+    2300470: stone 56
+    2300472: stone 57
+    2300474: stone 58
+    2300476: stone 59
+    2300478: stone 6
+    2300480: stone 60
+    2300482: stone 61
+    2300484: stone 62
+    2300486: stone 63
+    2300488: stone 64
+    2300490: stone 65
+    2300492: stone 66
+    2300494: stone 67
+    2300496: stone 68
+    2300498: stone 69
+    2300500: stone 7
+    2300502: stone 70
+    2300504: stone 8
+    2300506: stone 9
+    3300000: barred loop
+    3300002: barred loop 1
+    3300004: barred loop 2
+    3300006: barred loop 3
+    3300008: barred loop 4
+    3300010: bucket
+    3300012: bucket 1
+    3300014: bucket 2
+    3300016: bucket 3
+    3300018: Component#2
+    3300020: Component#3
+    3300022: Component#3 1
+    3300024: Component#3 2
+    3300026: Component#3 3
+    3300028: Component#3 4
+    3300030: Component#3 5
+    3300032: Component#3 6
+    3300034: Component#3 7
+    3300036: Component#3 8
+    3300038: Component#3 9
+    3300040: Component#4
+    3300042: Component#5
+    3300044: crane
+    3300046: crane 1
+    3300048: crane 2
+    3300050: crenellations
+    3300052: crenellations 1
+    3300054: crenellations 10
+    3300056: crenellations 11
+    3300058: crenellations 12
+    3300060: crenellations 13
+    3300062: crenellations 14
+    3300064: crenellations 15
+    3300066: crenellations 16
+    3300068: crenellations 17
+    3300070: crenellations 18
+    3300072: crenellations 19
+    3300074: crenellations 2
+    3300076: crenellations 20
+    3300078: crenellations 21
+    3300080: crenellations 22
+    3300082: crenellations 23
+    3300084: crenellations 24
+    3300086: crenellations 25
+    3300088: crenellations 26
+    3300090: crenellations 27
+    3300092: crenellations 28
+    3300094: crenellations 29
+    3300096: crenellations 3
+    3300098: crenellations 30
+    3300100: crenellations 31
+    3300102: crenellations 4
+    3300104: crenellations 5
+    3300106: crenellations 6
+    3300108: crenellations 7
+    3300110: crenellations 8
+    3300112: crenellations 9
+    3300114: Group 1
+    3300116: Group 11
+    3300118: Group 13
+    3300120: Group 15
+    3300122: Group 160
+    3300124: Group 162
+    3300126: Group 165
+    3300128: Group 167
+    3300130: Group 17
+    3300132: Group 170
+    3300134: Group 172
+    3300136: Group 175
+    3300138: Group 177
+    3300140: Group 180
+    3300142: Group 182
+    3300144: Group 185
+    3300146: Group 187
+    3300148: Group 19
+    3300150: Group 190
+    3300152: Group 192
+    3300154: Group 195
+    3300156: Group 197
+    3300158: Group 200
+    3300160: Group 202
+    3300162: Group 205
+    3300164: Group 207
+    3300166: Group 21
+    3300168: Group 210
+    3300170: Group 212
+    3300172: Group 215
+    3300174: Group 217
+    3300176: Group 220
+    3300178: Group 222
+    3300180: Group 225
+    3300182: Group 227
+    3300184: Group 23
+    3300186: Group 230
+    3300188: Group 232
+    3300190: Group 235
+    3300192: Group 237
+    3300194: Group 240
+    3300196: Group 242
+    3300198: Group 245
+    3300200: Group 247
+    3300202: Group 25
+    3300204: Group 27
+    3300206: Group 29
+    3300208: Group 31
+    3300210: Group 33
+    3300212: Group 35
+    3300214: Group 5
+    3300216: Group 7
+    3300218: Group 9
+    3300220: loop
+    3300222: loop 1
+    3300224: loop 2
+    3300226: loop 3
+    3300228: loop 4
+    3300230: loop 5
+    3300232: loop 6
+    3300234: loop 7
+    3300236: loop 8
+    3300238: loop 9
+    3300240: main tower
+    3300242: scaffolding
+    3300244: scaffolding 1
+    3300246: scaffolding 10
+    3300248: scaffolding 11
+    3300250: scaffolding 12
+    3300252: scaffolding 13
+    3300254: scaffolding 2
+    3300256: scaffolding 3
+    3300258: scaffolding 4
+    3300260: scaffolding 5
+    3300262: scaffolding 6
+    3300264: scaffolding 7
+    3300266: scaffolding 8
+    3300268: scaffolding 9
+    3300270: site
+    3300272: stick
+    3300274: stick 1
+    3300276: stick 10
+    3300278: stick 11
+    3300280: stick 12
+    3300282: stick 13
+    3300284: stick 14
+    3300286: stick 15
+    3300288: stick 16
+    3300290: stick 17
+    3300292: stick 18
+    3300294: stick 19
+    3300296: stick 2
+    3300298: stick 20
+    3300300: stick 21
+    3300302: stick 22
+    3300304: stick 23
+    3300306: stick 24
+    3300308: stick 25
+    3300310: stick 26
+    3300312: stick 27
+    3300314: stick 28
+    3300316: stick 29
+    3300318: stick 3
+    3300320: stick 30
+    3300322: stick 31
+    3300324: stick 32
+    3300326: stick 33
+    3300328: stick 34
+    3300330: stick 35
+    3300332: stick 36
+    3300334: stick 37
+    3300336: stick 38
+    3300338: stick 39
+    3300340: stick 4
+    3300342: stick 40
+    3300344: stick 41
+    3300346: stick 42
+    3300348: stick 43
+    3300350: stick 44
+    3300352: stick 45
+    3300354: stick 46
+    3300356: stick 5
+    3300358: stick 6
+    3300360: stick 7
+    3300362: stick 8
+    3300364: stick 9
+    3300366: stone
+    3300368: stone 1
+    3300370: stone 10
+    3300372: stone 11
+    3300374: stone 12
+    3300376: stone 13
+    3300378: stone 14
+    3300380: stone 15
+    3300382: stone 16
+    3300384: stone 17
+    3300386: stone 18
+    3300388: stone 19
+    3300390: stone 2
+    3300392: stone 20
+    3300394: stone 21
+    3300396: stone 22
+    3300398: stone 23
+    3300400: stone 24
+    3300402: stone 25
+    3300404: stone 26
+    3300406: stone 27
+    3300408: stone 28
+    3300410: stone 29
+    3300412: stone 3
+    3300414: stone 30
+    3300416: stone 31
+    3300418: stone 32
+    3300420: stone 33
+    3300422: stone 34
+    3300424: stone 35
+    3300426: stone 36
+    3300428: stone 37
+    3300430: stone 38
+    3300432: stone 39
+    3300434: stone 4
+    3300436: stone 40
+    3300438: stone 41
+    3300440: stone 42
+    3300442: stone 43
+    3300444: stone 44
+    3300446: stone 45
+    3300448: stone 46
+    3300450: stone 47
+    3300452: stone 48
+    3300454: stone 49
+    3300456: stone 5
+    3300458: stone 50
+    3300460: stone 51
+    3300462: stone 52
+    3300464: stone 53
+    3300466: stone 54
+    3300468: stone 55
+    3300470: stone 56
+    3300472: stone 57
+    3300474: stone 58
+    3300476: stone 59
+    3300478: stone 6
+    3300480: stone 60
+    3300482: stone 61
+    3300484: stone 62
+    3300486: stone 63
+    3300488: stone 64
+    3300490: stone 65
+    3300492: stone 66
+    3300494: stone 67
+    3300496: stone 68
+    3300498: stone 69
+    3300500: stone 7
+    3300502: stone 70
+    3300504: stone 8
+    3300506: stone 9
+    4300000: Mesh Group 1
+    4300002: Mesh site
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh crenellations
+    4300014: Mesh main tower
+    4300016: Mesh barred loop
+    4300018: Mesh loop
+    4300020: Mesh crane
+    4300022: Mesh Component#2
+    4300024: Mesh loop
+    4300026: Mesh barred loop
+    4300028: Mesh stone
+    4300030: Mesh Component#3
+    4300032: Mesh stick
+    4300034: Mesh scaffolding
+    4300036: Mesh Group 160
+    4300038: Mesh Group 162
+    4300040: Mesh Component#4
+    4300042: Mesh crenellations
+    4300044: Mesh bucket
+    4300046: Mesh crane
+    4300048: Mesh Component#5
+    4300050: Mesh barred loop
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
