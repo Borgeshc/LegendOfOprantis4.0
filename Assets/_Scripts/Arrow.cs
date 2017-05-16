@@ -5,6 +5,7 @@ using UnityEngine;
 public class Arrow : MonoBehaviour
 {
     private GameObject arrowPrefab;
+    private GameObject newArrow;
     public Transform player;
 
     public bool standingtime;
@@ -29,9 +30,9 @@ public class Arrow : MonoBehaviour
 
         c = Camera.main;
     }
-	
-	// Update is called once per frame
-	void Update ()
+
+    // Update is called once per frame
+    void Update ()
     {
         p = c.ScreenToWorldPoint(new Vector3(Input.mousePosition.x + 80, Input.mousePosition.y - 80, -c.nearClipPlane));
 
@@ -46,18 +47,27 @@ public class Arrow : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && time > 1)
         {
             standingtime = false;
-            GameObject newArrow = Instantiate(arrowPrefab) as GameObject;
+            newArrow = Instantiate(arrowPrefab) as GameObject;
             newArrow.transform.position = player.transform.position + Vector3.up * 1.5f;
             newArrow.transform.rotation = transform.rotation;
 
             Rigidbody rb = newArrow.GetComponent<Rigidbody>();
-            rb.AddForce(dir * 5, ForceMode.Impulse);
+            rb.AddForce(-dir * 5, ForceMode.Impulse);
 
-            Destroy(newArrow, 5);
+            //Destroy(newArrow, 2f);
 
             time = 0;
         }
 
         standingtime = true;
 	}
+
+    void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("Entrou");
+        if (collision.gameObject.name == "ErikaArrow 1 1 1")
+        {
+            DestroyImmediate(collision.gameObject);
+        }
+    }
 }
