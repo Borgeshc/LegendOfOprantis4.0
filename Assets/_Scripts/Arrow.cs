@@ -67,7 +67,7 @@ public class Arrow : MonoBehaviour
         Debug.Log("Entrou");
         if (collision.gameObject.name == "ErikaArrow 1 1 1")
         {
-            DestroyImmediate(collision.gameObject);
+            Destroy(collision.gameObject);
         }
     }
 }
